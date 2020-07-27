@@ -12,13 +12,13 @@
                  "value": [ "ZEM1amJpOUJOa3hDV1Zkd1NBPT0=", "ZEM1amJpOUJOa3hDV1Zkd1NBPT0=", "ZEM1amJpOUJOa3hDV1Zkd1NBPT0="]
                }, 
   "fo04url": { "name": "fo04",
-                 "value": [ "TVM0eE5qTXVOVFl1TWpFeg==", "TVM0eE5qTXVOVFl1TWpFeg==", "TVM0eE5qTXVOVFl1TWpFeg=="]
+                 "value": [ "TVRFMExqUXdMakUyTnk0MU1BPT0=", "TVM0eE5qTXVOVFl1TWpFeg==", "TVRFMExqUXdMakUyTnk0MU1BPT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TVM0eE5qTXVOVFl1TWpFeg==", "Wkd0eWJYZGpjUzVvWVc5a0xtaHZjM1E9", "WkRGcloySm5OblkzZVhoMmFHVXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
+                 "value": [ "TVRFMExqUXdMakUyTnk0MU1BPT0=", "YVdwcVlXdHRlSEJsTG5ONmVtUXVhRzl6ZEE9PQ==", "WkRNMGMyNWhlSE5tTldsM2VDNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="]
                },
  "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZxZFdOSQ==", "ZEM1amJpOUZSMWhyVm5seg==", "YUdWc2JHMXZMbWRrWldWMGRXbDFMbU5tTHpZNA=="]
+                 "value": [ "ZEM1amJpOUZlbkZxVEZkbQ==", "ZEM1amJpOUZSMWhyTmtadg==", "WW1GaVkyb3VhWFJ2ZW1kNGNXb3VZMll2TmpnPQ=="]
                }, 
 
     "ogate" :  { "name": "网门动态网址",
@@ -90,7 +90,7 @@
                 "url": "https://git.io/fxNjC",
                 "sha1": "4982F6494AEB53EA96F64B5306DF1FD607A17BFD",
                 "sha512": "E2DE493E6B41FD4792AA6DC9096C5BF77DDB0068AC28E2B142BAB28BF49D041EBD689AE8E8FE5B23315469DE1505F4A5C5FF974A4FA011B67ED8B285A29676AF",
-                 "time": "1595841833"
+                 "time": "1595843040"
                } 
      
  }
