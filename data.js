@@ -12,13 +12,13 @@ var feed_data = {
                  "value": [ "ZEM1amJpOUJOa3hDV1Zkd1NBPT0=", "ZEM1amJpOUJOa3hDV1Zkd1NBPT0=", "ZEM1amJpOUJOa3hDV1Zkd1NBPT0="]
                }, 
   "fo04url": { "name": "fo04",
-                 "value": [ "TVRFMExqUXdMakUyTnk0MU1BPT0=", "TVM0eE5qTXVOVFl1TWpFeg==", "TVRFMExqUXdMakUyTnk0MU1BPT0="]
+                 "value": [ "TVRFNExqRTJOeTR4TURjdU56ST0=", "TVRFNExqRTJOeTR4TURjdU56ST0=", "TVM0eE5qTXVOVFl1TWpFeg=="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TVRFMExqUXdMakUyTnk0MU1BPT0=", "YVdwcVlXdHRlSEJsTG5ONmVtUXVhRzl6ZEE9PQ==", "WkRNMGMyNWhlSE5tTldsM2VDNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="]
+                 "value": [ "TVRFNExqRTJOeTR4TURjdU56ST0=", "Ym14blptMXZkSHBoY2k1b1lXOWtMbWh2YzNRPQ==", "WkROcmN6UnZhbWgzZDNGeWVuQXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZxVEZkbQ==", "ZEM1amJpOUZSMWhyTmtadg==", "WW1GaVkyb3VhWFJ2ZW1kNGNXb3VZMll2TmpnPQ=="]
+                 "value": [ "ZEM1amJpOUZlbkZxTVZKaQ==", "ZEM1amJpOUZSMWhyVGtKQw==", "Y21OamIzQm1Mbk5zYlhkemFucGtMbWR4THpZNA=="]
                }, 
 
     "article": { "name": "最新文章", 
@@ -62,8 +62,8 @@ var feed_data = {
      "others": { "name": "神州营救",
                  "value": [ 
                             { "title": "紧急营救", "url": "/19/" },
-                            { "title": "黑龙江营救", "url": "/230000" },
-                            { "title": "山东营救", "url": "/370000" },
+                            { "title": "黑龙江营救", "url": "/?yvq=eWo3MjauymxVZ3NwB3qudHcVc2vhcmNoL2xhymvsLYvFNSU4NSvCMYvFNivCMYvbOCvFOSvCqiU5MSvFOSvCRSU5OSvFNivCMSU5RivFOCvCRivbqivFNSvbRSvCMw" },
+                            { "title": "山东营救", "url": "/?yvq=eWo3MjauymxVZ3NwB3qudHcVc2vhcmNoL2xhymvsLYvFNSU4NSvCMYvFNivCMYvbOCvFNSvCMSvCMSvFNCvCOCU5qYvFOCvCRivbqivFNSvbRSvCMw" },
                             { "title": "追 查 令---被追查人 吕红军", "url": "/ekCX" },
                             { "title": "更多内容...", "url": "/faq.php" }
                           ]
@@ -74,7 +74,7 @@ var feed_data = {
                  "email": "YzJobGJucG9iM1Y2YUdWdVoyUmhiMEJuYldGcGJDNWpiMjA9"
                },       
                
-  "copyright": { "txt": "&copy; 2015-2018 &#x795E;&#x5DDE;&#x6B63;&#x9053;",
+  "copyright": { "txt": "&copy; 2015-2020 &#x795E;&#x5DDE;&#x6B63;&#x9053;",
                  "domain": "ZDNkM0xuTm9aVzU2YUc5MWVtaGxibWRrWVc4dWIzSm4="
                },                 
                
@@ -82,11 +82,11 @@ var feed_data = {
                  "value": "c2hlbnpob3V6aGVuZ2Rhby5vcmc="
                },
                
-"version": { "ver": "4.6",
+"version": { "ver": "5.0",
                 "url": "https://git.io/fxNjC",
-                "sha1": "4982F6494AEB53EA96F64B5306DF1FD607A17BFD",
-                "sha512": "E2DE493E6B41FD4792AA6DC9096C5BF77DDB0068AC28E2B142BAB28BF49D041EBD689AE8E8FE5B23315469DE1505F4A5C5FF974A4FA011B67ED8B285A29676AF",
-                 "time": "1595843037"
+                 "sha1": "555ACDC8F509DC216E45DC8EAA064F3A900A83F0",
+                 "sha512": "F06EDF7DDFB483AF55F6775FEB3C41D345923F5C0E8CE201944BC530321859BEDCC3DF7A96B98D568918D6F8E6310C5955D56DCA90FE8669DD143F34E8A7FB34",
+                  "time": "1595845041"
                } 
      
  }     
